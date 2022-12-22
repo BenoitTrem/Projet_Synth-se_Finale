@@ -107,7 +107,7 @@ namespace Projet_Synthèse_Final
         }
        
         private void FormClient_Load(object sender, EventArgs e)
-        {                                
+        {        
         }
 
         /// <summary>

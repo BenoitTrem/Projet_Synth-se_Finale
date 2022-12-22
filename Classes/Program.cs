@@ -6,7 +6,6 @@ using System.Windows.Forms;
 
 // 2027678
 // Benoit Tremblay
- 
 
 namespace Projet_Synthèse_Final
 {
